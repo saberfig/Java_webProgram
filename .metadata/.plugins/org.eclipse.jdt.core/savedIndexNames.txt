@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\mine\program\java\在线对战游戏\.metadata\.plugins\org.eclipse.jdt.core
+2140989447.index
+2501520862.index
+137624701.index

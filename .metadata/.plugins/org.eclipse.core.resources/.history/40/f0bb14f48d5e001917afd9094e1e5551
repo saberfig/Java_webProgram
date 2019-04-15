@@ -1,0 +1,5 @@
+package com.bupt.server;
+
+public class CloseUtils {
+
+}
