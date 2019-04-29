@@ -10,6 +10,7 @@ public class CloseUtils{
 			if(c!=null) {
 				try {
 					c.close();
+					int i=1;
 				} catch (IOException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
